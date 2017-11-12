@@ -1,0 +1,86 @@
+* {margin:0; padding:0;}
+body {
+	background-color	: #FFF;
+	text-align			: center;
+	font-family			: Verdana, Tahoma, Helvetica;
+	font-size			: 12px;
+}
+
+form {
+	float: right;
+	width:30px auto; /* untuk menggeser ke kiri dan kanan kolom search */
+    margin:20px; /* untuk menggeser ke atas dan ke bawah kolom search */
+}
+.search {
+    padding:10px 50px;
+    background:white;
+    border:0px solid #dbdbdb;
+}
+.button {
+    position:relative;
+    padding:10px 10px;
+    left:-8px;
+    border:2px solid #53bd84;
+    background-color:#53bd84;
+    color:#fafafa;
+}
+.button:hover  {
+    background-color:#fafafa;
+    color:#207cca;
+}
+
+#layout {
+	background			: #56BAA2;
+	width				: 100%;
+	margin				: 0;
+	text-align			: left;
+	padding				: 0;
+}
+#header {
+	width				: 100%;
+	height				: 80px;
+	background-color	: #CCCCCC;
+	position			: relative;
+	padding				: 0px 10px;
+}
+.header {
+	width				: auto;
+	height				: auto;
+}
+
+nav {
+ margin:auto;
+ text-align: center;
+ width: 100%;
+ font-family: arial;
+ font-size: 16px;
+ } 
+ nav ul {
+ background:#363B3F;
+ padding: 0 20px;
+ list-style: none;
+ position: relative;
+ display: inline-table;
+ width: 100%;
+ }
+ nav ul li{
+ float:right;
+ }
+
+ nav ul li:hover{
+ background:#ffffff;
+ }
+
+ nav ul li:hover a{
+ color:#000;
+ }
+
+ nav ul li a{
+ display: block;
+ padding: 25px;
+ color: #fff;
+ text-decoration: none;
+ 
+ h2{
+	 margin:100px;
+ }

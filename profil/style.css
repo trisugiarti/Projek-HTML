@@ -1,0 +1,154 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body {
+}
+header{
+	position : absolute;
+	left: -1px;
+	top: -1px;
+	background: #070D21;
+	height:60px;
+	width: 1191px;
+	border-bottom: 1px solid #070D21;
+}
+.header-block{
+	width: 992px;
+	margin:0 auto;
+}
+.logo {
+	width: 50%;
+	float: left;
+}
+.seacrh {
+		left: 415px;
+		top: 17px;
+		width: 203px;
+		height: 26px;
+		width : 50%;
+		float : left;
+}
+.logo img {
+	padding-top : 18px;
+	padding-bottom : 107px;
+}
+.header-block label {
+	color : #FFFFFF;
+	}
+
+.profil img{
+	position: absolute;
+	left: 136px;
+	top: -166px;
+	width: 916px;
+	height: 606px;
+}
+.profil2 img{
+	position: absolute;
+	left: 502px;
+	top: 111px;
+	width: 163px;
+	height: 163px;
+}
+.nama {
+		position: absolute;
+		left: 522px;
+		top: 281px;
+		width: 122px;
+		height: 21px;
+		color: #FFFFFF;
+		font-weight: Bold;
+		font-size : 19px;
+		font-style: Arial;
+}
+.status {
+		position: absolute;
+		left: 511px;
+		top: 311px;
+		width: 145px;
+		height: 17px;
+		color: #FFFFFF;
+		font-size : 15px;
+		font-style: Arial;
+}
+.dinding {
+		position: absolute;
+		left: 187px;
+		top: 354px;
+		width: 43px;
+		height: 15px;
+		color: #28A1C9;
+		font-size : 13px;
+		font-style: Arial;
+}
+.tentang {
+		position: absolute;
+		left: 275px;
+		top: 354px;
+		width: 46px;
+		height: 15px;
+		color: #FFFFFF;
+		font-size : 13px;
+		font-style: Arial;
+}
+.mengikuti {
+		position: absolute;
+		left: 366px;
+		top: 355px;
+		width: 56px;
+		height: 15px;
+		color: #FFFFFF;
+		font-size : 13px;
+		font-style: Arial;
+}
+.pengikut {
+		position: absolute;
+		left: 748px;
+		top: 354px;
+		width: 133px;
+		height: 15px;
+		color: #FFFFFF;
+		font-size : 13px;
+		font-style: Arial;
+}
+.ikuti img{
+	position: absolute;
+	left: 908px;
+	top: 341px;
+	width: 105px;
+	height: 39px;
+}
+.foto img{
+	position: absolute;
+	left: 318px;
+	top: 468px;
+	width: 553px;
+	height: 369px;
+}
+.Anne {
+		position: absolute;
+		left: 151px;
+		top: 468px;
+		width: 101px;
+		height: 155px;
+		color: #28C7C7;
+		font-size : 15px;
+		font-style: Candara;
+}
+
+
+header2{
+	position :absolute;
+	left: 138px;
+	top: 331px;
+	background: #000000;
+	height: 58px;
+	width: 914px;
+	border-bottom: 1px solid #000000;
+	background:rgba(0,0,0,0.7);
+}
+.header-block{
+	width: 992px;
+	margin:0 auto;
+}
